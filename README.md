@@ -1,2 +1,1 @@
-# hotbeanswebfahad
-fdbfjdfhjodfjdfojdsfofjdso
+git clone <repository_url>
